@@ -3,3 +3,4 @@ line 2 from ide
 line 3 from ide
 line 4 from terminal
 line 5 from ide
+line 6 from terminal 
