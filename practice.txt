@@ -1,11 +1,1 @@
-line 1 from terminal
-line 2 from ide
-line 3 from ide
-line 4 from terminal
-line 5 from ide
-line 6 from terminal
-line 7 from ide and from feature 1
-line 8 from my own
-line 6 from terminal
-line 7 from terminal from featire2  on master
-line 8 from ide and from feature 1
+added line 1 from branch 1
