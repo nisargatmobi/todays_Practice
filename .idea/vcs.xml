@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kum-n-Go_Commons_Library copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kum-n-Go_LoyaltyApp_MobGate" vcs="Git" />
   </component>
 </project>
